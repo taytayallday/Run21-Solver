@@ -10,6 +10,6 @@ Causing any column to reach over 21 results in a lose .
 In this version , the agent just plays the game by itself .
 
 Working on a version where the user and agent play the same card , so you can see
-whether or not the agent did better than you .
+whether or not the agent did better than you once the game is over .
 
 Too see my code : Run21-Solver/Assets/ML-Agents/Examples/MyRun21/Scripts
